@@ -246,6 +246,7 @@ const TransformationForm = ({
                     setImage={setImage}
                     image={image}
                     type={type}
+                    publicId={field.value}
                   />
                 )}
               />
